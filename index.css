@@ -1,27 +1,10 @@
-.textalign{
-    color:red;
-    text-align: center;
-    font-size:40px;
-    font-family:Sofia, Helvetica, sans-serif;/* as Sofia family 
-    is not available it will degrade to next one*/
-}
-[title="university"]{
-    width: 400px;
-    
-    border-color: rgb(255, 0, 64);
-    border-width: 11px;
-    border-style: solid;
-    
-    
-}
-#div_id{
+
+
+.div_id{
     background-color: #0ff;
     margin-top: 4%;margin-bottom: 5%;margin-left: 3%;margin-right: 0%;
-
+    font-size: 0.5in;
 }
-.my_para{
-    border-color: #00f;
-    border-width: 5px;
-    border-style: solid;
-    margin: 100px 200px 200px 200px;
+.my_class{
+    font-size: 1.5em;
 }
