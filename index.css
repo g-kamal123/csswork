@@ -7,7 +7,7 @@
 }
 .my_img{
     width: 400px;
-    padding: 4%;
+    padding-left: 4%;padding-right: 4%;padding-top: 10%;padding-bottom: 5%;
     border-color: rgb(255, 0, 64);
     border-width: 11px;
     border-style: solid;
