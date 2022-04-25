@@ -2,5 +2,6 @@
     color:red;
     text-align: center;
     font-size:40px;
-    font-family: Sofia;
+    font-family:Sofia, Helvetica, sans-serif;/* as Sofia family 
+    is not available it will degrade to next one*/
 }
