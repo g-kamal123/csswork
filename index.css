@@ -5,21 +5,20 @@ body{
     
 }
 
-.div_class{
-    background-color: rgb(161, 63, 63);
-    margin-top: 4%;margin-bottom: 5%;margin-left: 3%;margin-right: 0%;
-    font-size: 0.5in;
-}
 #div_id{
     background-color: rgb(161, 63, 63);
 }
 .my_class{
     font-size: 1.5em;
     border: 5px solid #444;
+    background-color: gray;
 }
 .my_h1{
     color: #f00 !important;
 }
 .this_h1{
     color: #00f;
+}
+.p_class{
+    color: red;
 }
