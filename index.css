@@ -48,7 +48,8 @@
   .left-hand {
     top: 0%;
     left: 75%;
-    background: var(--penguin-skin);;
+    background: var(--penguin-skin,black);
+    /*This will set background to black if your variable wasn't set*/
     width: 30%;
     height: 60%;
     border-radius: 30% 30% 30% 120%;
