@@ -1,15 +1,7 @@
 :root {
-    --red-color: red;
+    --penguin-belly:pink;
   }
-  .red-box {
-
-    background: var(--red-color);
-    height: 200px;
-    width:200px;
-  }:root {
-    --red-color: red;
-  }
-  .red-box {
+  
 
     background: var(--red-color);
     height: 200px;
@@ -35,7 +27,7 @@
   .penguin-top {
     top: 10%;
     left: 25%;
-    background: var(--penguin-skin);/*here we have used 
+    background: var(--penguin-skin,black);/*here we have used 
     custom css variable*/
     width: 50%;
     height: 45%;
@@ -45,7 +37,7 @@
   .penguin-bottom {
     top: 40%;
     left: 23.5%;
-    background: var(--penguin-skin);;
+    background: var(--penguin-skin,black);
     width: 53%;
     height: 45%;
     border-radius: 70% 70% 100% 100%;
@@ -54,7 +46,7 @@
   .right-hand {
     top: 0%;
     left: -5%;
-    background: var(--penguin-skin);
+    background: var(--penguin-skin,black);
     width: 30%;
     height: 60%;
     border-radius: 30% 30% 120% 30%;
