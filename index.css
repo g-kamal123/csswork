@@ -5,10 +5,13 @@ body{
     
 }
 
-.div_id{
+.div_class{
     background-color: #0ff;
     margin-top: 4%;margin-bottom: 5%;margin-left: 3%;margin-right: 0%;
     font-size: 0.5in;
+}
+#div_id{
+    background-color: #fff;
 }
 .my_class{
     font-size: 1.5em;
