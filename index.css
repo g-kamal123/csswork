@@ -1,9 +1,10 @@
 .penguin {
 
-    /*only chane here*/
-    --penguin-skin: gray;
+    
+    --penguin-skin: blue;/* this is custom css variable*/
     --penguin-belly: white;
     --penguin-beak: orange;
+
     
 
     position: relative;
