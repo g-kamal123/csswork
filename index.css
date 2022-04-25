@@ -5,3 +5,6 @@
     font-family:Sofia, Helvetica, sans-serif;/* as Sofia family 
     is not available it will degrade to next one*/
 }
+.my_img{
+    width: 700px;
+}
