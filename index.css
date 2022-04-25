@@ -6,5 +6,8 @@
     is not available it will degrade to next one*/
 }
 .my_img{
-    width: 700px;
+    width: 400px;
+    border-color: rgb(255, 0, 64);
+    border-width: 11px;
+    border-style: solid;
 }
