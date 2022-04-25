@@ -1,9 +1,9 @@
 .penguin {
 
-    
-    --penguin-skin: black;
-    --penguin-belly: gray;
-    --penguin-beak: yellow;
+    /*only chane here*/
+    --penguin-skin: gray;
+    --penguin-belly: white;
+    --penguin-beak: orange;
     
 
     position: relative;
