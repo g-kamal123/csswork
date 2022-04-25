@@ -9,6 +9,7 @@
   }
 
   .penguin {
+    --penguin-belly:white;
 
     position: relative;
     margin: auto;
