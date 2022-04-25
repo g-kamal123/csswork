@@ -7,6 +7,7 @@
 }
 .my_img{
     width: 400px;
+    padding: 4%;
     border-color: rgb(255, 0, 64);
     border-width: 11px;
     border-style: solid;
