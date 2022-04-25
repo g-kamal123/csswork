@@ -11,7 +11,7 @@ body{
     font-size: 0.5in;
 }
 #div_id{
-    background-color: #fff;
+    background-color: rgb(255,255,255);
 }
 .my_class{
     font-size: 1.5em;
