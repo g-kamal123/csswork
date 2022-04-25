@@ -1,4 +1,7 @@
-
+body{
+    background-color: beige;
+    
+}
 
 .div_id{
     background-color: #0ff;
@@ -7,4 +10,5 @@
 }
 .my_class{
     font-size: 1.5em;
+    border: 5px solid blueviolet;
 }
