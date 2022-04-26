@@ -1,0 +1,83 @@
+:root{
+    --lightgray: #a5a1a19c;
+}
+.div-header{
+    display: flex;
+    flex-direction: column;
+    height:20vh;
+    
+}
+.sitename{
+    display:flex ;
+    justify-content: flex-start;
+    align-items: center;
+    height:65%;
+    background-color: var(--lightgray);
+    
+}
+.div-title nav ul{
+    display: flex;
+    /* justify-content: flex-start; */
+    margin-left: -4.2vw;
+    margin-top: -0.5vh;
+    
+    
+    
+} 
+.div-title{
+    height: 35%;
+}
+.div-title nav ul li{
+    display: flex;
+    padding: 4px;
+    margin: 4px;
+    background-color: rgb(56, 55, 55);
+    justify-content: flex-start;
+    
+    
+}
+.div-title nav ul li a{
+    display: flex;
+    color: white;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+}
+#cg{
+    background-color: rgb(5, 80, 5);
+}
+#pg{
+    display: inline-block;
+    width: 150vh;
+    margin-right: -0.1vh;
+    
+}
+.div-main{
+    height: 65vh;
+    display: flex;
+    margin-top: -2.8vh;
+    
+}
+.div1-main{
+    width: 75vw;
+    padding: 0% 2% 1% 2%;
+}
+.div2-main{
+    width: 25vw;
+    background-color: var(--lightgray);
+}
+.subdiv2{
+    padding-left: 4%;
+}
+/* .list-class{
+    background-color: darkgray;
+    padding-left: 4x;
+} */
+.footer-class{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 15vh;
+    background-color: rgb(114, 112, 112);
+    padding-right: 2%;
+}
