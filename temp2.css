@@ -49,6 +49,14 @@
     margin-top: 4%;
 }
 .footer-div ul li{
+    /* padding-left: 30px; */
+    justify-content: baseline;
     margin: 1%;
+    /* height: 60px; */
 }
+.footer-div ul li input{
+    height: 25px;
+    /* width: 250px; */
+}
+
 
