@@ -23,6 +23,7 @@
 .div-title nav ul{
     display: flex;
     height: 5vh;
+    width: 100vw;
     /* justify-content: flex-start; */
     /* margin-left: -4.2vw; */
     /* margin-top: -0.5vh; */
@@ -37,6 +38,7 @@
 .div-title nav{
     /* border: 2px solid blue; */
     height: 5vh;
+    width: 100vw;
 }
 .div-title nav ul li{
     display: flex;
@@ -61,7 +63,7 @@
 }
 #pg{
     display: inline;
-    width: 76vw;
+    width: 100vw;
     /* margin-right: -0.1vh; */
     
 }
