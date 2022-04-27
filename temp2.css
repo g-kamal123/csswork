@@ -6,8 +6,10 @@
 .header-div{
     display: flex;
     flex-direction: column;
-    height: 20vh;
+    height: 5vh;
     margin-top: 2%;
+    padding-top: 4%;
+    /* border: 2px solid red; */
 }
 .header-div nav ul{
     display: flex;
@@ -18,14 +20,14 @@
     text-decoration: none;
     margin: 0px 10px 0px 10px;
 }
-.logo-class{
+/* .logo-class{
     display: flex;
     justify-content: flex-start;
-}
-.logo-class img{
+} */
+/* .logo-class img{
     width: 10vw;
     height: 10vh;
-}
+} */
 .row21-div img{
     width: 30vw;
     height: 20vh;
